@@ -9,12 +9,7 @@
 
 ## Project done by :
 
--> Akshita Verma <br>
--> Arpan Malik <br>
--> Hirshikesh Akilan <br>
--> Hriddhima Singh <br>
--> Ishita Gupta <br>
--> Mahimai Raja
+->Prashant
 
 ## About
 
